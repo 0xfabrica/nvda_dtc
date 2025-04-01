@@ -46,7 +46,7 @@ Este proyecto se centró en la predicción del precio de las acciones de NVIDIA 
 | Real 0 | 2989 (VN) | 185 (FP) |
 | Real 1 | 211 (FN) | 3173 (VP) |
 
-**Observaciones:** DecisionTreeClassifier muestra un alto rendimiento en la clasificación, con una precisión del 94%. La matriz de confusión indica un buen balance entre la identificación de verdaderos positivos y verdaderos negativos. El modelo utilizado se encuentra guardado en el archivo **model_dtc.joblib**.
+**Observaciones:** DecisionTreeClassifier muestra un alto rendimiento en la clasificación, con una precisión del 94%. La matriz de confusión indica un buen balance entre la identificación de verdaderos positivos y verdaderos negativos. El modelo utilizado se encuentra guardado en el archivo **model_dtc_without_target.joblib**.
 
 **3. XGBoost:**
 
